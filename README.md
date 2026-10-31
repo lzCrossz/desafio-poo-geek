@@ -8,7 +8,7 @@ Os setters validam os dados (nome não vazio e e-mail com "@"), protegendo o est
 A classe `Main` cria três objetos diferentes (Ana, Bruno e Carla), cada um com dados próprios.
 Dois são cadastrados pelo construtor e um pelo método `cadastrar()`.
 O teste foi feito executando o programa e conferindo no console se os três cadastros aparecem corretamente.
-O desenho manuscrito da classe está na imagem `desenho-classe.jpg` deste repositório.
+O desenho manuscrito da classe está na imagem `desenho-classe.jpeg` deste repositório.
 
 ## Como executar
 
